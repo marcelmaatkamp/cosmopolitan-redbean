@@ -1,5 +1,5 @@
-# cosmopolitan's redbean in a docker container
-Cosmopolitan's redbean webserver in a contaimer, see https://justine.lol/redbean
+# Cosmopolitan redbean webserver in a docker container
+See https://justine.lol/redbean
 
 # TL;DR
 "redbean can serve 1 million+ gzip encoded responses per second on a cheap personal computer"
