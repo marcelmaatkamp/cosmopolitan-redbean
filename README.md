@@ -6,7 +6,7 @@ See https://justine.lol/redbean
 
 # usage
 ```
-$ docker 
+$ docker \
   run \
    --rm \
    --name redbean \
